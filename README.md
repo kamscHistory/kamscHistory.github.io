@@ -1,2 +1,2 @@
 # kamscHistory.github.io
-Mr. Houtrouw's History Webdesign Project
+Mr. Houtrouw's history webdesign project
